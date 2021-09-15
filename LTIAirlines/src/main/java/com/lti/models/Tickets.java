@@ -17,7 +17,6 @@ public class Tickets {
 		this.seatNo = seatNo;
 	}
 	
-		
-		
+	
 
 }
