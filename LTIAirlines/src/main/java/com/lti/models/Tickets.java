@@ -3,7 +3,7 @@ package com.lti.models;
 public class Tickets {
 	int ticketNo;
 	int seatNo;
-	
+	int a;
 	public int getTicketNo() {
 		return ticketNo;
 	}
