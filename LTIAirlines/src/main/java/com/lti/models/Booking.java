@@ -15,7 +15,6 @@ public class Booking {
 	public void setFlight(Flight flight) {
 		this.flight = flight;
 	}
-	
 	}
 	
 
