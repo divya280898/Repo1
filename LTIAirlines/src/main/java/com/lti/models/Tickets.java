@@ -1,11 +1,23 @@
 package com.lti.models;
 
 public class Tickets {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("test sampple for pushing and pulling in git");
-
+	int ticketNo;
+	int seatNo;
+	
+	public int getTicketNo() {
+		return ticketNo;
 	}
+	public void setTicketNo(int ticketNo) {
+		this.ticketNo = ticketNo;
+	}
+	public int getSeatNo() {
+		return seatNo;
+	}
+	public void setSeatNo(int seatNo) {
+		this.seatNo = seatNo;
+	}
+	
+		
+		
 
 }
